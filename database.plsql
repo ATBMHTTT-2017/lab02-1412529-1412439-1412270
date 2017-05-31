@@ -8,7 +8,7 @@ CREATE TABLE NHANVIEN(
 	email varchar2(30), 
 	maPhong char(5), 
 	chiNhanh char(5), 
-	luong float
+	luong raw(100)
 	);
 
 /*Phan cong*/
