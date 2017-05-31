@@ -1,11 +1,6 @@
 
 /*script them du lieu*/
 /*Nhan vien*/
-INSERT INTO NHANVIEN VALUES('NV001', 'Nguyen Van A', 'Long An', '098888123', 'loveinair@yahoo.com', '', '', 20000000);
-INSERT INTO NHANVIEN VALUES('NV002', 'Tran Thi B', 'Gia Lai', '098821111', 'sharkiloveu@yahoo.com', '', '', 20000000);
-INSERT INTO NHANVIEN VALUES('NV003', 'Bui Van A', 'Dak Lak', '098864545', 'longernight@yahoo.com', '', '', 40000000);
-INSERT INTO NHANVIEN VALUES('NV004', 'Nguyen Ha Hai C', 'Vung Tau', '092288967', 'thebeset@yahoo.com', '', '', 50000000);
-INSERT INTO NHANVIEN VALUES('NV005', 'Pham Viet A', 'Can Tho', '0985566123', 'huggmid@yahoo.com', '', '', 25000000);
 
 /*Chi nhanh*/
 INSERT INTO CHINHANH VALUES('CN001', 'Chi nhanh Ha Noi', 'NV002');
