@@ -34,7 +34,7 @@ CREATE TABLE PHONGBAN(
 CREATE TABLE DUAN(
 	maDA char(5) primary key,
 	tenDA varchar2(30),
-	kinhPhi float,
+	kinhPhi raw(100),
 	phongChuTri char(5),
 	truongDA char(5)
 	);
